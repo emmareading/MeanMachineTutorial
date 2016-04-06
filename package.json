@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "description": "build a restful node API ",
+  "main": "server.js",
+  "author": "Emma Reading",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.11",
+    "morgan": "^1.7.0"
+  }
+}
